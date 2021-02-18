@@ -1,9 +1,6 @@
 const Hello = 'Hello friend'
 
-let a = 3
-let b = 45
-
-function beeebi() {
+function beeebi(a, b) {
   a += b
   return a
 }
